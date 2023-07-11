@@ -8,14 +8,14 @@ const Navbar = () => {
   return (
     <div>
       <nav className='flex justify-between items-center h-20 max-w-6xl mx-auto bg-slate-900'>
-        <NavLink to='/'>
+        <NavLink to='/shopping-cart-app'>
         <div className='ml-5'>
           <img src="../shopping-cart-app/logo.png" alt="" className='h-14'/>
         </div>
         </NavLink>
 
         <div className='flex items-center font-medium text-slate-100 mr-5 space-x-6 -tracking-tighter'>
-          <NavLink to='/'>
+          <NavLink to='/shopping-cart-app'>
             <p className='cursor-pointer hover:text-green-400 transition duration-300 ease-in'>Home</p>
           </NavLink>
           
