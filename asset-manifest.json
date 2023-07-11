@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shopping-cart-app/static/css/main.5efd51e7.css",
-    "main.js": "/shopping-cart-app/static/js/main.d3a0453c.js",
+    "main.js": "/shopping-cart-app/static/js/main.e371e2d9.js",
     "index.html": "/shopping-cart-app/index.html",
     "main.5efd51e7.css.map": "/shopping-cart-app/static/css/main.5efd51e7.css.map",
-    "main.d3a0453c.js.map": "/shopping-cart-app/static/js/main.d3a0453c.js.map"
+    "main.e371e2d9.js.map": "/shopping-cart-app/static/js/main.e371e2d9.js.map"
   },
   "entrypoints": [
     "static/css/main.5efd51e7.css",
-    "static/js/main.d3a0453c.js"
+    "static/js/main.e371e2d9.js"
   ]
 }
